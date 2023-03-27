@@ -1,0 +1,22 @@
+.btn-marge {
+    margin-top: 2em;
+}
+
+.btn-color{
+    background-color: #6060FF;
+}
+#section-1{
+    margin: 0 auto;
+    width: 1000px;
+    height: 1000px;
+}
+.disabled {
+    display: none;
+}
+#section-2 {
+    width: 200px;
+    position: absolute;
+    top: 0; left: calc(50% - 100px);
+    text-align: center;
+    font-size: 35px;
+}
